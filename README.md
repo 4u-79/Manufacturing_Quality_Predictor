@@ -26,8 +26,8 @@ The dataset leans towards high quality ratings. The model performs well on predi
 ## Installation
 1. Clone this repository:
    ```bash
-  git clone https://github.com/4u-79/Manufacturing_Quality_Predictor.git
-  cd Manufacturing_Quality_Predictor
+     git clone https://github.com/4u-79/Manufacturing_Quality_Predictor.git
+     cd Manufacturing_Quality_Predictor
   
 2. Install dependencies:
   pip install -r requirements.txt
